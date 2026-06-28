@@ -1,6 +1,6 @@
-Student;Hours Sleep;Screen Time (hrs);Favorite Subject
-A;8;3;Math
-B;6;5;Science
-C;7;4;English
-D;9;2;Math
-E;8;6;Science
+Student,Hours Sleep,Screen Time (hrs),Favorite Subject
+A,8,3,Math
+B,6,5,Science
+C,7,4,English
+D,9,2,Math
+E,8,6,Science
